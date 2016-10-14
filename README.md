@@ -1,34 +1,22 @@
 # oktober_stammtisch_2016
 
+## Ort
+
+[Statement](https://agentur-statement.de/)
+
 ## namen
 
+* [Ralf](https://horttcore.de)
 
-## themen
-
-**Geplant:**
-
-* 
-* 
-
-**Vortrag** 
+## Diskussionen
  
-* 
-* 
-
-**Diskussionen**
- 
-* 
-* 
+* Deployment
+* Build Prozesse
 
 ## buzzwords und links
 
-**Weblinks**
+## Weblinks
 
-*
-*
+* [buddy.works](https://buddy.works/)
+* [VersionEye](https://www.versioneye.com/)
 * [WebDevStammtisch Saar](http://www.webdevstammtisch.de/)
-
-## Mögliche Themen für die Zukunft
-
-*
-* 

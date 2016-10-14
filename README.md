@@ -7,6 +7,12 @@
 ## namen
 
 * [Ralf](https://horttcore.de)
+* [Kevin](https://kkrieger.de)
+* Mirko
+* Ralf
+* Chinthu
+* Norman
+*
 
 ## Diskussionen
  
